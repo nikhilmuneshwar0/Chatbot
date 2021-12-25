@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Sample {
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
 
     public static void main(String[] args) {
@@ -61,5 +61,3 @@ public class Main {
         System.out.println("Congratulations, have a nice day!"); // Do not change this text
     }
 }
-
-
